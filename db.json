@@ -1,0 +1,15 @@
+{
+  "events": [
+    { "id": 1, "title": "Hackathon 2026", "category": "Technical", "date": "2026-11-14", "venue": "Seminar Hall A", "capacity": 3, "description": "24-hour coding challenge for first-year students." },
+    { "id": 2, "title": "Robotics Workshop", "category": "Workshop", "date": "2026-11-20", "venue": "Mechanical Lab 2", "capacity": 40, "description": "Hands-on introduction to Arduino and sensors." },
+    { "id": 3, "title": "Cultural Night", "category": "Cultural", "date": "2026-12-02", "venue": "Main Auditorium", "capacity": 200, "description": "Music, dance and drama performances by student clubs." },
+    { "id": 4, "title": "Inter-College Quiz", "category": "Sports & Games", "date": "2026-12-10", "venue": "Room 304", "capacity": 25, "description": "Team quiz on science, tech and general knowledge." }
+  ],
+  "registrations": [
+    { "id": 1, "eventId": 1, "studentName": "Asha Rao", "usn": "1BM25CS001", "email": "asha.rao@example.com", "registeredOn": "2026-10-18" },
+    { "id": 2, "eventId": 1, "studentName": "Rahul Verma", "usn": "1BM25CS014", "email": "rahul.verma@example.com", "registeredOn": "2026-10-18" },
+    { "id": 3, "eventId": 2, "studentName": "Meera Nair", "usn": "1BM25DS007", "email": "meera.nair@example.com", "registeredOn": "2026-10-19" },
+    { "id": 4, "eventId": 3, "studentName": "Kiran Shetty", "usn": "1BM25CS022", "email": "kiran.shetty@example.com", "registeredOn": "2026-10-19" },
+    { "id": 5, "eventId": 3, "studentName": "Divya Iyer", "usn": "1BM25DS011", "email": "divya.iyer@example.com", "registeredOn": "2026-10-20" }
+  ]
+}
